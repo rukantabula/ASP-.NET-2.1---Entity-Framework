@@ -17,6 +17,9 @@
     <Compile Update="Migrations\20190103083854_initial.Designer.cs">
       <DependentUpon>20190103083854_initial.cs</DependentUpon>
     </Compile>
+    <Compile Update="Migrations\20190103092456_relationships.Designer.cs">
+      <DependentUpon>20190103092456_relationships.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
 
 </Project>
