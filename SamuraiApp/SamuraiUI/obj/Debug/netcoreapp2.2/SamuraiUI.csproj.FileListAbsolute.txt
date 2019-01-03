@@ -1,0 +1,8 @@
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\bin\Debug\netcoreapp2.2\SamuraiUI.deps.json
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\bin\Debug\netcoreapp2.2\SamuraiUI.runtimeconfig.json
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\bin\Debug\netcoreapp2.2\SamuraiUI.runtimeconfig.dev.json
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\bin\Debug\netcoreapp2.2\SamuraiUI.dll
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\obj\Debug\netcoreapp2.2\SamuraiUI.csprojAssemblyReference.cache
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\obj\Debug\netcoreapp2.2\SamuraiUI.csproj.CoreCompileInputs.cache
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\obj\Debug\netcoreapp2.2\SamuraiUI.AssemblyInfoInputs.cache
+C:\Users\66317\Source\Repos\SamuraiApp\SamuraiUI\obj\Debug\netcoreapp2.2\SamuraiUI.AssemblyInfo.cs
