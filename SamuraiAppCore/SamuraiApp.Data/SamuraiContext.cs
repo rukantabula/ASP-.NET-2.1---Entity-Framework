@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Text;
 using SamuraiApp.Domain;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Console;
 
 namespace SamuraiApp.Data
 {
     public class SamuraiContext : DbContext
     {
+       
         public SamuraiContext(DbContextOptions<SamuraiContext> options) : base(options) { }
         public DbSet<Samurai> Samurais { get; set; }
         public DbSet<Quote> Quotes { get; set; }
