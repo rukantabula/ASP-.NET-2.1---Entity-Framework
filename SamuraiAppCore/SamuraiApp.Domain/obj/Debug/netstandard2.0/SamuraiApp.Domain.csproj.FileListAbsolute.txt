@@ -1,0 +1,9 @@
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.deps.json
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\66317\Source\Repos\ASP-.NET-2.1---Entity-Framework\SamuraiAppCore\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
